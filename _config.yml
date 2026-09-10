@@ -1,0 +1,20 @@
+title: Chutayu Adhittayawong
+description: >-
+  บล็อกส่วนตัวของ Chutayu Adhittayawong (First) — เขียนเรื่อง infrastructure,
+  กลยุทธ์ธุรกิจ, และแนวคิดที่น่าสนใจ ย้ายมาจาก Medium
+baseurl: "/chutayu-blog"
+url: "https://chutayuadhi-ctrl.github.io"
+theme: minima
+minima:
+  skin: classic
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+encoding: utf-8
+lang: th
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+show_excerpts: true
+header_pages: []
