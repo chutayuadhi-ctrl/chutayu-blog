@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="545" viewBox="0 0 900 545" font-family="'Noto Sans Thai', 'Sarabun', 'Leelawadee UI', Tahoma, sans-serif">
+  <rect x="0" y="0" width="900" height="545" fill="#ffffff"/>
+
+  <!-- Title -->
+  <text x="450" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#1a1f29">
+    <tspan x="450" dy="0">Pity คือเครื่องมือควบคุม</tspan>
+    <tspan x="450" dy="38">Cashflow ที่คาดเดาได้</tspan>
+  </text>
+
+  <!-- Card 1: 0.6% -->
+  <rect x="60" y="150" width="360" height="320" rx="14" fill="#ffffff" stroke="#e2e2e2" stroke-width="1.5"/>
+  <text x="240" y="280" text-anchor="middle" font-size="86" font-weight="800" fill="#157a15">0.6%</text>
+  <text x="240" y="335" text-anchor="middle" font-size="21" font-weight="700" fill="#4a4a4a" letter-spacing="0.5">PER PULL · ต่อครั้ง</text>
+  <text x="240" y="375" text-anchor="middle" font-size="16" fill="#8a8a8a">
+    <tspan x="240" dy="0">โอกาสสุ่มติดตัวละคร</tspan>
+    <tspan x="240" dy="24">ระดับ 5 ดาว ในแต่ละครั้ง</tspan>
+  </text>
+
+  <!-- Card 2: 90 -->
+  <rect x="480" y="150" width="360" height="320" rx="14" fill="#ffffff" stroke="#e2e2e2" stroke-width="1.5"/>
+  <text x="660" y="280" text-anchor="middle" font-size="86" font-weight="800" fill="#157a15">90</text>
+  <text x="660" y="335" text-anchor="middle" font-size="21" font-weight="700" fill="#4a4a4a" letter-spacing="0.5">PULLS · ครั้ง (Hard Pity)</text>
+  <text x="660" y="375" text-anchor="middle" font-size="16" fill="#8a8a8a">
+    <tspan x="660" dy="0">การันตีตัวละคร 5 ดาว</tspan>
+    <tspan x="660" dy="24">ภายใน 90 ครั้งแน่นอน</tspan>
+  </text>
+
+  <!-- Footer citation -->
+  <text x="840" y="522" text-anchor="end" font-size="13" font-style="italic" fill="#a0a0a0">ที่มา: HoYoverse Support Center — Wish guarantee system</text>
+</svg>
